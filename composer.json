@@ -1,0 +1,16 @@
+{
+    "name": "shaifulazh/hello-composer",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shaifulazh\\HelloComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shaiful Azhar",
+            "email": "shaifulazhartalib@gmail.com"
+        }
+    ],
+    "require": {}
+}
